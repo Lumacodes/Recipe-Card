@@ -1,11 +1,41 @@
-Recipe Card Project
+# Recipe Card Project
 
-Hey! I made this simple recipe card web page to practice HTML and CSS — nothing fancy, just a clean card showing a salad picture, difficulty level, and star ratings.
+Hey there!
 
-I’m still learning, so I kept it straightforward. Played around with flexbox, hover effects, and styling images.
+This is a simple recipe card web page I built to practice **HTML** and **CSS**.  
+It’s a clean, minimal card showcasing a salad picture, difficulty level, and star ratings.
 
-I’m running this on my Arch Linux setup using Hyprland (Wayland compositor) and Illogical Impulse for screenshots — so if you see some neat screenshots in my repo, that’s the tool I’m using!
+![Recipe card Example](https://raw.githubusercontent.com/Lumacodes/Recipe-Card/main/Example-Recipe.png)
 
-Open the index.html file in your browser to see it live. No setup needed.
+---
 
-Feel free to fork or improve it — feedback or tips are always welcome!
+## About This Project
+
+I’m still learning, so I kept it straightforward — using **flexbox**, **hover effects**, and some image styling.  
+It’s a great starting point if you want to build or customize your own recipe cards!
+
+I use **Arch Linux** btw!
+
+---
+
+## How to Use
+
+- Simply open the `index.html` file in any modern browser to see it live.  
+- No setup or build tools required — super simple!
+
+---
+
+## Feel Free To
+
+- Fork this repo and make it your own  
+- Improve the styling, add new features, or customize the layout  
+- Share feedback or tips to help me learn more!
+
+---
+
+## Support
+
+Thanks for stopping by — I hope this inspires your next web project!  
+
+If you'd like to support me, you can buy me a coffee here:  
+[https://ko-fi.com/lumacodes](https://ko-fi.com/lumacodes)
